@@ -36,7 +36,7 @@ The project includes analysis of:
 
 The accompanying dashboard provides a visual overview of key business metrics and trends identified during the analysis.
 
-![Swiggy Dashboard](./Swiggy-Food-Delivery-Analytics/dashboard.png)
+![Swiggy Dashboard](./Swiggy%20Food%20Delivery%20Analytics/dashboard.png)
 
 ## 💡 Business Insights
 
